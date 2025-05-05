@@ -1,6 +1,6 @@
-# Laboratorio propiedades de un componente y map
+# Laboratorio Rutas en react
 
-Este laboratorio tiene el objetivo demostrar como cargar hacer un map dinámico de compnentes
+Este laboratorio tiene el objetivo demostrar como se importan y se utilizan lar rutas para el front con react
 ## Requisitos Previos
 
 1. Vite
